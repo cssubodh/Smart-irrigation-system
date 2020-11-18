@@ -9,3 +9,13 @@ This project aims to -
     7. Solve the farmers’ problems related to irrigation and soil quality degradation.
     
    
+Keywords:
+Cloud, IFTTT, Mobile application, NodeMCU, Soil Moisture sensor.
+
+Hardware:
+    1. NodeMCU
+    2. Soil Moisture Sensor
+    3. PIR Sensor
+    4. Ph Sensor
+    5. DC Motor 
+    6. Relay
