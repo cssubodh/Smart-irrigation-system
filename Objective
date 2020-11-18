@@ -1,0 +1,11 @@
+OBJECTIVES: 
+This project aims to -
+    1. To learn the concepts of irrigation and water management in agriculture.
+    2. To understand the significance of soil health checking and related parameters, in relation to irrigation and agricultural produce.
+    3. Monitor the soil parameters, checking for humidity, moisture, temperature etc.
+    4. Design a control mechanism to take decisions such as whether to turn on/off a certain water outlet, and quantity of water to be supplied per unit time.
+    5. Design a system to control water flow, i.e. a water flow control mechanism that can vary the water flow as per the control signals.
+    6. Implement the above systems to work in conjunction with the other as well as with existing systems used in agriculture.
+    7. Solve the farmers’ problems related to irrigation and soil quality degradation.
+    
+   
